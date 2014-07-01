@@ -1,9 +1,0 @@
-Wyniki:
-Correctly Classified Instances          40               88.8889 %
-Incorrectly Classified Instances         5               11.1111 %
-Kappa statistic                          0.832 
-Mean absolute error                      0.0657
-Root mean squared error                  0.1947
-Relative absolute error                 14.6593 %
-Root relative squared error             40.9039 %
-Total Number of Instances               45     
